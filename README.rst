@@ -27,3 +27,5 @@ You may not reproduce copyright images without their owner's permission,
 except in "fair use" cases,
 or you could risk running into lawyer's warnings, cease-and-desist letters, and copyright suits.
 Please be very careful before its usage! Use this script/code only for educational purposes.
+
+TEST
